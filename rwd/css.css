@@ -1,0 +1,76 @@
+* {
+    box-sizing: border-box;
+}
+
+.zaglavlje {
+	border: 2px ridge brown;
+	background-color: #ffcc99;
+	color: #804000;
+	text-align:center;
+	}
+	
+h2{
+	color:brown;
+}
+	
+.sadrzaj{
+	width: 75%;
+	float: left;
+	padding: 20px;
+	background-color: #003300;
+	color:#ffd9b3;
+	
+}
+
+.menu{
+	width: 25%;
+	float: left;
+	font-size: 22px;
+	color: #ffd9b3;
+    }
+	
+ul   {
+	background-color: #003300;
+	width: 300px;
+	list-style-type:none;
+	margin:10;
+	padding:15;
+}
+
+li a {
+	display:block;
+	color: #ffd9b3;
+	padding: 8px 20 px;
+	text-decoration:none;
+}
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+img{
+	margin-left: auto;
+    margin-right: auto;
+	display: block;
+	width:50%;
+}
+
+
+	
+
+
+
+body{
+	background-color:#003300;
+}
+
+
+
+.podnozje{
+    color: #804000;
+    background: #ffcc99;
+    padding: 20px;
+	font-weight: bold;
+	text-align: center;
+	float:center;
+	
+	} 
