@@ -1,0 +1,63 @@
+body {
+	background-color:  	 black;
+	font-size: 12;
+}
+
+h1, h2{
+	color: green;
+	text-align: center;
+	
+	 
+}
+footer {
+    color: white;
+    background: green;
+    padding: 20px;
+	font-weight: bold;
+	text-align: center;
+	float:center;
+	margin-top: 220px;
+	}
+	
+	#prvi {
+	color:white;
+	font-weight:bold;
+	}
+
+ 
+a:link, a:visited {
+    background-color:green ;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+	
+}
+
+
+a:hover, a:active {
+    background-color:  MediumSeaGreen;
+}
+
+#main{
+	width: 100%;
+	margin: 2px;
+	background-color: Gainsboro; 
+	color: Seagreen; 
+}
+
+
+
+* {
+    box-sizing: border-box;
+	
+}
+
+.container {
+    width: 70%;
+    padding: 12px;    
+    border: 2px solid green;
+	background-color: #c1f0c1;
+}
+
